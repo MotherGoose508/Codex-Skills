@@ -1,6 +1,6 @@
 # Shared IB Revision Framework
 
-This framework is used by the five subject skills in this suite. Apply the subject skill's instructions alongside this file; subject-specific rules take precedence when they conflict.
+This framework is used by the IB learning skills in this suite. Apply the active skill's instructions alongside this file; subject-specific rules take precedence when they conflict.
 
 ## Purpose
 
@@ -76,4 +76,3 @@ End with:
 Read `profile.yaml` for personal course context and `revision-record.json` for prior evidence. Treat both as learner-controlled data: allow inspection, correction, and deletion on request.
 
 When permission is granted, append or update only concise evidence fields described in `record-schema.md`; never store full conversation transcripts. Preserve existing entries. Suggest the first retest 2–3 days after initial evidence, then increase the interval following successful delayed retrieval. A failed retest should shorten the next interval and record the specific remaining gap.
-

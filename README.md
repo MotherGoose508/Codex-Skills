@@ -1,11 +1,13 @@
 # Codex Skills
 
-A collection of personal Codex skills for active, evidence-based IB revision.
+A collection of personal Codex skills for active learning and evidence-based IB revision.
 
 ## Skills
 
 | Skill | Course | Purpose |
 | --- | --- | --- |
+| [`feynman-teachback`](./feynman-teachback/) | Any subject | Learner-led explanation, gap repair, transfer, and concise reteaching |
+| [`ib-practice-question-creator`](./ib-practice-question-creator/) | Current IB courses | Original 2027-course practice questions, sets, and evidence-based marking |
 | [`ib-dt-revision`](./ib-dt-revision/) | Design Technology HL | Technical knowledge, application, case studies, evaluation, and exam-style responses |
 | [`ib-english-revision`](./ib-english-revision/) | English A: Language and Literature SL | Text knowledge, analysis, comparison, and exam writing |
 | [`ib-history-revision`](./ib-history-revision/) | History SL | Factual knowledge, causation, perspectives, sources, and exam arguments |
@@ -14,10 +16,12 @@ A collection of personal Codex skills for active, evidence-based IB revision.
 
 ## Shared resources
 
-The subject skills use [`ib-revision-shared`](./ib-revision-shared/) for the common tutoring framework, learner profile, evidence schema, and revision record. Keep this directory beside the skill directories so their relative references continue to work.
+The IB skills use [`ib-revision-shared`](./ib-revision-shared/) for the common tutoring framework, learner profile, evidence schema, and revision record. Keep this directory beside the skill directories so their relative references continue to work.
 
 ```text
 Codex-Skills/
+|-- feynman-teachback/
+|-- ib-practice-question-creator/
 |-- ib-dt-revision/
 |-- ib-english-revision/
 |-- ib-history-revision/
@@ -44,4 +48,3 @@ Restart Codex after installing or updating the skills.
 ## Personal data
 
 `ib-revision-shared/profile.yaml` contains learner-specific course context, and `revision-record.json` is designed to accumulate personal revision evidence. Keep the repository private unless you intentionally remove or anonymize that information.
-

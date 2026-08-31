@@ -1,0 +1,6 @@
+interface:
+  display_name: "Feynman Teach-Back"
+  short_description: "Learn by teaching concepts back in your own words"
+  default_prompt: "Use $feynman-teachback to test my understanding by having me teach this topic back."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,6 @@
+interface:
+  display_name: "IB Practice Question Creator"
+  short_description: "Create original course-accurate IB practice questions"
+  default_prompt: "Use $ib-practice-question-creator to create IB-style practice questions for my course."
+policy:
+  allow_implicit_invocation: true
