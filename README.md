@@ -1,6 +1,6 @@
 # Codex Skills
 
-A collection of personal Codex skills for active learning and evidence-based IB revision.
+A collection of personal Codex skills for active learning and evidence-based IB revision.For AAHL maths, HL Physics, HL Dt, SL English Lang Lit, SL Spanish B, and SL History
 
 ## Skills
 
