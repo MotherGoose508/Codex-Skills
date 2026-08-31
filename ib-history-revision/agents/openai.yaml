@@ -1,0 +1,7 @@
+interface:
+  display_name: "IB History Revision"
+  short_description: "Active History SL evidence and argument practice"
+  default_prompt: "Use $ib-history-revision to test and strengthen my History understanding in the time available."
+policy:
+  allow_implicit_invocation: true
+

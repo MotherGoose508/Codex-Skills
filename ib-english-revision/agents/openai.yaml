@@ -1,0 +1,7 @@
+interface:
+  display_name: "IB English Revision"
+  short_description: "Active English SL recall and exam practice"
+  default_prompt: "Use $ib-english-revision to run a focused revision session for the time I have available."
+policy:
+  allow_implicit_invocation: true
+

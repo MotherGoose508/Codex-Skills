@@ -1,0 +1,7 @@
+interface:
+  display_name: "IB Spanish Revision"
+  short_description: "Adaptive Spanish B SL language practice"
+  default_prompt: "Use $ib-spanish-revision to start an active Spanish revision session for the time I have."
+policy:
+  allow_implicit_invocation: true
+

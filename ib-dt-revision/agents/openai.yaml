@@ -1,0 +1,6 @@
+interface:
+  display_name: "IB Design Technology Revision"
+  short_description: "Redesigned IB DT HL active exam practice"
+  default_prompt: "Use $ib-dt-revision to test my DT knowledge and application for the time available."
+policy:
+  allow_implicit_invocation: true

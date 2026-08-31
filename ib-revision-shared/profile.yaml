@@ -1,0 +1,32 @@
+learner:
+  programme: "IB Diploma Programme"
+  personal_profile: true
+subjects:
+  english:
+    course: "English A: Language and Literature"
+    level: "SL"
+    works:
+      - "Stories of Your Life and Others"
+      - "Jimmy's Blues and Other Poems"
+      - "Jane Eyre"
+  spanish:
+    course: "Spanish B"
+    level: "SL"
+  history:
+    course: "History"
+    level: "SL"
+    current_topics:
+      - "First World War"
+      - "Second World War"
+      - "Russian Civil War"
+      - "Vietnam War"
+      - "Six-Day War"
+    note: "More topics will be added as the course progresses. Do not infer the prescribed subject or named syllabus option without authoritative material."
+  physics:
+    course: "Physics"
+    level: "HL"
+  design_technology:
+    course: "Design Technology"
+    level: "HL"
+    syllabus: "Redesigned course"
+

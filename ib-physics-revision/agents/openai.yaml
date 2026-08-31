@@ -1,0 +1,7 @@
+interface:
+  display_name: "IB Physics Revision"
+  short_description: "Conceptual and exam-focused Physics HL practice"
+  default_prompt: "Use $ib-physics-revision to run a demanding Physics session for the time I have."
+policy:
+  allow_implicit_invocation: true
+
