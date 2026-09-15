@@ -1,0 +1,4 @@
+interface:
+  display_name: "IB DT IA"
+  short_description: "Plan, document, and review an authentic DT IA"
+  default_prompt: "Use $ib-dt-ia to help me plan and document my Design Technology IA."

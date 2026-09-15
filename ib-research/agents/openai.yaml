@@ -1,0 +1,4 @@
+interface:
+  display_name: "IB Research"
+  short_description: "Evaluate EE, IA, and TOK research with MLA citations"
+  default_prompt: "Use $ib-research to research my IB question with evaluated MLA sources."

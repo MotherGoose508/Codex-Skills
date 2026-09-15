@@ -1,0 +1,4 @@
+interface:
+  display_name: "IB Spanish Grammar Practice"
+  short_description: "Interactive grammar coaching with Word export"
+  default_prompt: "Use $ib-spanish-grammar-practice to guide me through this IB Spanish grammar plan and export the finished session as a Word document."

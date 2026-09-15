@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project Discovery"
+  short_description: "Find and choose feasible AI and maker projects"
+  default_prompt: "Use $project-discovery to help me choose and scope a project."

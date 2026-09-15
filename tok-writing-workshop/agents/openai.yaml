@@ -1,0 +1,4 @@
+interface:
+  display_name: "TOK Writing Workshop"
+  short_description: "Draft and refine TOK Exhibition and Essay work"
+  default_prompt: "Use $tok-writing-workshop to help me improve my TOK draft."

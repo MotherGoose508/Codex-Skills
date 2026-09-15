@@ -25,6 +25,7 @@ Before generating questions, read the one reference matching the requested subje
 - If the requested quantity is missing, ask how many before generating. For interactive practice, present the chosen number one question at a time; for a requested batch, generate the stated quantity together.
 - Use the learner's course level by default. Do not silently make questions easier than Mathematics AA HL, Physics HL, Design Technology HL, English A SL, Spanish B SL, or History SL as recorded in the profile.
 - Present ordinary practice in chat. Create a polished worksheet or mock-paper artifact only when requested.
+- For a unit test, mock paper, worksheet, response booklet, or printable PDF, read [Printable paper formatting](references/printable-paper-formatting.md). Treat "IB style" as assessment structure and visual conventions, never as permission to copy IB branding or present the artifact as official.
 
 ## Verify the 2027 Assessment Basis
 

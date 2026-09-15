@@ -1,5 +1,62 @@
 {
   "version": 1,
-  "entries": []
+  "entries": [
+    {
+      "id": "phys-c3-c5-20260901",
+      "date": "2026-09-01",
+      "subject": "physics",
+      "topic": "C.3-C.5 wave phenomena, standing waves, and Doppler effect",
+      "task_type": "concept_explanation",
+      "unaided_evidence": "Correctly identified basic reflection, interference, standing-wave formation, nodes and antinodes, and the approaching-source Doppler effect; initially confused diffraction with splitting, refraction with reflection, the resonance condition, and moving-source versus moving-observer effects.",
+      "hints_used": 8,
+      "misconceptions": [
+        "Diffraction was initially described as a wave splitting rather than spreading.",
+        "Refraction changes and bending directions were initially confused with reflection.",
+        "Moving-source wavelength compression was initially conflated with moving-observer encounter rate."
+      ],
+      "correction_evidence": "Explained that refraction keeps frequency constant while speed and wavelength change; applied diffraction to narrow and wide openings; derived standing-wave spacing and stated the resonance condition; distinguished source compression of wavefronts from an observer encountering unchanged wavefront spacing more frequently.",
+      "status": "developing",
+      "next_action": "Complete a five-minute closed-book comparison of reflection versus refraction and moving source versus moving observer.",
+      "retest_on": "2026-09-04",
+      "source_basis": "Learner teach-back checked against provisional general IB Physics knowledge; no official syllabus or mark scheme was supplied."
+    },
+    {
+      "id": "eng-paper2-chiang-analysis-20260908",
+      "date": "2026-09-08",
+      "subject": "english",
+      "topic": "Paper 2 analytical chains in Stories of Your Life and Others",
+      "task_type": "paper_2_plan",
+      "unaided_evidence": "Explained nonlinear chronology as challenging free will based on an unknown future; identified that Renee's mathematical identity makes the proof emotionally devastating; identified that documentary form makes readers form judgements.",
+      "hints_used": 4,
+      "misconceptions": [
+        "Initially named broad outcomes rather than precise formal choices.",
+        "Initially described Chiang's agency as a loss rather than a redefinition.",
+        "Initially framed calliagnosia as a middle-ground or peaceful-debate issue rather than a tension between equality and coercion."
+      ],
+      "correction_evidence": "Produced analytical chains for nonlinear chronology, mathematical paradox, and documentary collage, linking each to reader effect and an ethical or philosophical question.",
+      "status": "developing",
+      "next_action": "On 2026-09-10, recreate three closed-book choice-to-effect-to-idea chains for Story of Your Life, Division by Zero, and Liking What You See.",
+      "retest_on": "2026-09-10",
+      "source_basis": "Learner-provided cheat sheet and guided Paper 2 analysis practice; provisional general literary-analysis feedback."
+    },
+    {
+      "id": "eng-paper2-jane-analysis-20260908",
+      "date": "2026-09-08",
+      "subject": "english",
+      "topic": "Paper 2 analytical chains in Jane Eyre",
+      "task_type": "paper_2_plan",
+      "unaided_evidence": "Explained that direct address and active first-person grammar give Jane control in the marriage ending; identified a pattern of confinement across the Red Room, Lowood, and attic.",
+      "hints_used": 3,
+      "misconceptions": [
+        "Initially treated Gothic withholding mainly as shock value rather than an ethical test of trust and authority.",
+        "Initially attributed all confinement to one powerful man rather than recognising family, school, and marriage as connected institutions.",
+        "Initially needed support to name precise authorial choices before explaining their implications."
+      ],
+      "correction_evidence": "Produced analytical chains for direct address and active syntax, Gothic withholding, and recurring enclosed settings, linking each to agency, ethical judgement, and systemic patriarchal power.",
+      "status": "developing",
+      "next_action": "On 2026-09-10, recreate three closed-book choice-to-effect-to-idea chains for the Jane Eyre marriage ending, Rochester secret, and confined settings.",
+      "retest_on": "2026-09-10",
+      "source_basis": "Learner-provided cheat sheet and guided Paper 2 analysis practice; provisional general literary-analysis feedback."
+    }
+  ]
 }
-

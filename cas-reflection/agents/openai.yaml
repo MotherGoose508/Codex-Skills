@@ -1,0 +1,4 @@
+interface:
+  display_name: "CAS Reflection"
+  short_description: "Draft and improve authentic CAS reflections"
+  default_prompt: "Use $cas-reflection to help me turn my notes into a CAS reflection."

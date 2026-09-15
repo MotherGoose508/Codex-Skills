@@ -1,0 +1,7 @@
+interface:
+  display_name: "PowerPoint Class Teacher"
+  short_description: "Interactive teaching from classroom PowerPoints"
+  default_prompt: "Use $powerpoint-class-teacher to teach me interactively from the class PowerPoints in this folder."
+
+policy:
+  allow_implicit_invocation: true
